@@ -1,2 +1,2 @@
-hai
+hai semua
 iyak
