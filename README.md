@@ -1,2 +1,2 @@
 say hello to vim!
-fix
+fixed
