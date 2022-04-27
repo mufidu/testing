@@ -1,2 +1,1 @@
-say hello to vim!
-fixed
+say hello to elementary!
